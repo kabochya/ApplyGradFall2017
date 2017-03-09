@@ -1,6 +1,5 @@
 # Summary
 
-### 留學申請一大包
 * [前言](README.md)
 * [前期準備](prepare/README.md)
   * [課程](prepare/README.md#課程)
