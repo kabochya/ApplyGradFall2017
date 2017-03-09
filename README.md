@@ -1,3 +1,8 @@
-# My Awesome Book
+# 留學申請一大包 2017 秋季班
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+寫這篇的目的一方面是希望能夠為這一年來的準備做個收尾和紀錄，另一方面則是希望能夠把自己的經驗留下來，能幫一個人是一個人。
+
+
+
+
+
