@@ -1,10 +1,14 @@
 {
     "plugins": [
-        "disqus"
+        "disqus",
+        "ga"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "applygrad-f17"
+        },
+        "ga":{
+            "token": "UA-93406613-1"
         }
     }
 }
