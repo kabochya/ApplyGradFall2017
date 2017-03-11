@@ -13,5 +13,6 @@
   * [CV/Resume](documents/README.md#cv)
   * [SOP/PS/PHS](documents/README.md#sop)
   * [LoR](documents/README.md#lor)
+  * [其他](documents/README.md#其他)
 * [雜項](misc/README.md)
 
