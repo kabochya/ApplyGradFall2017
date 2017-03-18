@@ -52,16 +52,16 @@ Background:
 截至目前(3/18/2017)為止的申請情形為下：
 
 
-##Admission:
+## Admission:
 - 2/23 CMU CS MS
 - 3/5  CMU INI MSIN
 - 3/8  UMich CSE MS
 
-##Reject:
+## Reject:
 - 3/3  UCB CS MS
 - 3/16 UIUC CS MS
 
-##Pending:
+## Pending:
 - Stanford CS MS
 - UT CS MS
 - UCSD CSE MS
