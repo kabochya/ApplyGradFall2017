@@ -49,7 +49,7 @@ Background:
 
 申請的主要都是CS相關的MS Program
 
-截至目前(3/18/2017)為止的申請情形為下：
+截至目前(3/25/2017)為止的申請情形為下：
 
 
 ## Admission:
@@ -60,10 +60,10 @@ Background:
 ## Reject:
 - 3/3  UCB CS MS
 - 3/16 UIUC CS MS
+- 3/21 Stanford CS MS
+- 3/21 UT CS MS
 
 ## Pending:
-- Stanford CS MS
-- UT CS MS
 - UCSD CSE MS
 - GaTech CS MS
 - Purdue CS MS
