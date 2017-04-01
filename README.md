@@ -56,15 +56,18 @@ Background:
 - 2/23 CMU CS MS
 - 3/5  CMU INI MSIN
 - 3/8  UMich CSE MS
+- 3/28 CMU ECE MS
+- 3/28 UCSD CSE MS
+- 3/29 Gatech CS MS
 
 ## Reject:
 - 3/3  UCB CS MS
 - 3/16 UIUC CS MS
 - 3/21 Stanford CS MS
 - 3/21 UT CS MS
+- 3/30 CMU MCDS
 
 ## Pending:
-- UCSD CSE MS
-- GaTech CS MS
+
 - Purdue CS MS
-- CMU ECE MS
+
